@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\desktop\lab5\source\main.c(10): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\lab5\source\main.c(11): warning C4047: '函式': 'int' 與 'int [4][13]' 間接取值的層級不同
+c:\users\user\desktop\lab5\source\main.c(11): warning C4024: 'shuffle': 型式和實質參數 1 不同的類型
+c:\users\user\desktop\lab5\source\main.c(12): warning C4047: '函式': 'int' 與 'int [4][13]' 間接取值的層級不同
+c:\users\user\desktop\lab5\source\main.c(12): warning C4024: 'deal': 型式和實質參數 1 不同的類型
+c:\users\user\desktop\lab5\source\main.c(12): warning C4047: '函式': 'const char' 與 'char *[4]' 間接取值的層級不同
+c:\users\user\desktop\lab5\source\main.c(12): warning C4024: 'deal': 型式和實質參數 2 不同的類型
+c:\users\user\desktop\lab5\source\main.c(12): warning C4047: '函式': 'const char' 與 'char *[13]' 間接取值的層級不同
+c:\users\user\desktop\lab5\source\main.c(12): warning C4024: 'deal': 型式和實質參數 3 不同的類型
+c:\users\user\desktop\lab5\source\main.c(15): warning C4028: 型式參數 1 與來自宣告的不同
+c:\users\user\desktop\lab5\source\main.c(27): warning C4028: 型式參數 1 與來自宣告的不同
+c:\users\user\desktop\lab5\source\main.c(27): warning C4028: 型式參數 2 與來自宣告的不同
+c:\users\user\desktop\lab5\source\main.c(27): warning C4028: 型式參數 3 與來自宣告的不同
+  Lab5.vcxproj -> C:\Users\User\Desktop\Lab5\Lab5\Lab5\..\..\temp\debug\Lab5.exe
